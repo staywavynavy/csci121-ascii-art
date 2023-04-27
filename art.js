@@ -11,4 +11,8 @@ const ART = [
    "filename": "keys.txt",
    "credit_text": "Hayley Jane Wakenshaw",
    "credit_url": "https://www.asciiart.eu/music/musical-instruments"},
+   {"title" "Pepega Clown",
+   "filename": "PepegaClown.txt",
+   "credit_text": "Tom",
+   "credit_url": "https://www.text-image.com/convert/result.cgi"},
 ];
