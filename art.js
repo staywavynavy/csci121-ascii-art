@@ -7,4 +7,8 @@ const ART = [
    "filename": "earth.txt",
    "credit_text": "jgs",
    "credit_url": "https://www.asciiart.eu/space/planets"},
+  {"title": "Razza - a mix of Lab and Chow",
+   "filename": "dog.txt",
+   "credit_text": "anonymous",
+   "credit_url": "https://www.asciiart.eu/animals/dogs"},
 ];
