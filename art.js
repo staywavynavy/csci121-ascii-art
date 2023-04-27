@@ -27,4 +27,8 @@ const ART = [
    "filename": "Satellite.txt",
    "credit_text": "anonymous",
    "credit_url": "https://www.asciiart.eu/space/satellites"},
+  {"title: "Mortal Kombat", 
+    "filename": "Mortal_Kombat.txt", 
+    "credit_text": "Blazej Kozlowski", 
+    "credit_url": "https://www.asciiart.eu/video-games/mortal-kombat"},
 ];
