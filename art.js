@@ -15,4 +15,8 @@ const ART = [
    "filename": "Satellite.txt",
    "credit_text": "anonymous",
    "credit_url": "https://www.asciiart.eu/space/satellites"},
+  {"title": "X-Wing",
+   "filename": "x-wing.txt",
+   "credit_text": "Shanaka Dias",
+   "credit_url": "https://www.asciiart.eu/movies/star-wars"},
 ];
