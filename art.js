@@ -11,7 +11,7 @@ const ART = [
    "filename": "keys.txt",
    "credit_text": "Hayley Jane Wakenshaw",
    "credit_url": "https://www.asciiart.eu/music/musical-instruments"},
-  {"title" "Pac Man",
+  {"title": "Pac Man",
    "filename": "PacMan.txt",
    "credit_text": "Anonymous",
    "credit_url": "https://www.asciiart.eu/video-games/pacman"},
