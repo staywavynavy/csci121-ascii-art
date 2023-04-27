@@ -11,4 +11,12 @@ const ART = [
    "filename": "frogs.txt",
    "credit_text": "VK",
    "credit_url": "https://www.asciiart.eu/animals/frogs"},
+  {"title": "Capitals Logo",
+   "filename": "capitals.txt",
+   "credit_text": "Brian Odom",
+   "credit_url": "https://www.asciiart.eu/sports-and-outdoors/ice-hockey"},
+  {"title": "Satellite",
+   "filename": "Satellite.txt",
+   "credit_text": "anonymous",
+   "credit_url": "https://www.asciiart.eu/space/satellites"},
 ];
