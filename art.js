@@ -11,4 +11,8 @@ const ART = [
    "filename": "Satellite.txt",
    "credit_text": "anonymous",
    "credit_url": "https://www.asciiart.eu/space/satellites"},
+  {"title": "Coca Cola",
+   "filename": "cocacola.txt",
+   "credit_text": "Gilo94",
+   "credit_url": "https://www.asciiart.eu/logos/coca-cola"},
 ];
