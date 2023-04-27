@@ -11,4 +11,8 @@ const ART = [
    "filename": "keys.txt",
    "credit_text": "Hayley Jane Wakenshaw",
    "credit_url": "https://www.asciiart.eu/music/musical-instruments"},
+  {"title" "Haunted House",
+   "filename": "haunted_house.txt",
+   "credit_text": "Joan G. Stark",
+   "credit_url": "https://www.asciiart.eu/buildings-and-places/houses"},
 ];
