@@ -11,4 +11,8 @@ const ART = [
    "filename": "Satellite.txt",
    "credit_text": "anonymous",
    "credit_url": "https://www.asciiart.eu/space/satellites"},
+  {"title": "Mogus",
+   "filename": "mogus.txt",
+   "credit_text": "https://www.twitchquotes.com/copypastas/3822",
+   "credit_url": "https://www.twitchquotes.com/copypastas/3822"},
 ];
