@@ -8,7 +8,7 @@ const ART = [
    "credit_text": "jgs",
    "credit_url": "https://www.asciiart.eu/space/planets"},
    {"title": "Sonic",
-   "filename": "Sonic.txt",
+   "filename": "Sonic:).txt",
    "credit_text": "Jaden Lewis",
    "credit_url": "https://www.asciiart.eu/video-games/sonic-the-hedgehog"},
 ];
