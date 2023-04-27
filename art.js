@@ -11,4 +11,8 @@ const ART = [
    "filename": "capitals.txt",
    "credit_text": "Brian Odom",
    "credit_url": "https://www.asciiart.eu/sports-and-outdoors/ice-hockey"},
+  {"title": "Satellite",
+   "filename": "Satellite.txt",
+   "credit_text": "anonymous",
+   "credit_url": "https://www.asciiart.eu/space/satellites"},
 ];
